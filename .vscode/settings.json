@@ -1,0 +1,5 @@
+{
+    "open-in-browser.default": "firefox",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.useBrowserPreview": true
+}
